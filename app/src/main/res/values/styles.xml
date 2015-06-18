@@ -5,4 +5,36 @@
         <!-- Customize your theme here. -->
     </style>
 
+    <style name="BackgroundBlue">
+        <item name="android:background">#277edf</item>
+    </style>
+
+    <style name="TitleText">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:textSize">80sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="BaseText">
+        <item name="android:textColor">#d6d6d6</item>
+        <item name="android:opacity">translucent</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="MainPageMenuItems" parent="BaseText">
+        <item name="android:textSize">40sp</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="MainText" parent="BaseText">
+        <item name="android:textSize">19sp</item>
+    </style>
+
+    <style name="SmallText" parent="BaseText">
+        <item name="android:textSize">10sp</item>
+    </style>
+
 </resources>

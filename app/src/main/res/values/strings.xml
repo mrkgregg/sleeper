@@ -1,5 +1,12 @@
 <resources>
     <string name="app_name">Sleeper</string>
-    <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <!--Main Page -->
+    <string name="MainPageTitle">Sleeper</string>
+    <string name="MainPageMenuItemOne">Go To Sleep</string>
+    <string name="MainPageMenuItemTwo">Playlists</string>
+    <string name="MainPageMenuItemThree">Options</string>
+
+
 </resources>
