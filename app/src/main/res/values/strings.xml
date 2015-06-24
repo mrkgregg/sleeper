@@ -6,7 +6,7 @@
     <string name="MainPageTitle">Sleeper</string>
     <string name="MainPageMenuItemOne">Go To Sleep</string>
     <string name="MainPageMenuItemTwo">Playlists</string>
-    <string name="MainPageMenuItemThree">Options</string>
+    <string name="MainPageMenuItemThree">Alarms</string>
 
 
 </resources>
