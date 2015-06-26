@@ -7,6 +7,8 @@
     <string name="MainPageMenuItemOne">Go To Sleep</string>
     <string name="MainPageMenuItemTwo">Playlists</string>
     <string name="MainPageMenuItemThree">Alarms</string>
+    <string name="title_activity_go_to_sleep">GoToSleep</string>
+    <string name="hello_world">Hello world!</string>
 
 
 </resources>

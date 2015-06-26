@@ -16,6 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".GoToSleep"
+            android:label="@string/title_activity_go_to_sleep" >
+        </activity>
     </application>
 
 </manifest>
